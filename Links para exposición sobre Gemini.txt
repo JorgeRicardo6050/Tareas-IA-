@@ -1,0 +1,9 @@
+Links para exposición sobre Gemini
+
+https://es.wired.com/articulos/por-que-gemini-google-marca-inicio-del-boom-ia-generativa
+
+https://es.wired.com/articulos/que-es-gemini-el-modelo-de-ia-mas-avanzado-de-Google
+
+https://developers.googleblog.com/es/looking-back-at-the-first-year-of-the-gemini-era/#:~:text=La%20evoluci%C3%B3n%20de%20Gemini%20es,y%20rentable%20para%20sus%20aplicaciones.
+
+https://developers.googleblog.com/es/gemini-2-5-video-understanding/
